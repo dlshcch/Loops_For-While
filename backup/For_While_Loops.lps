@@ -9,12 +9,12 @@
         <Filename Value="For_While_Loops.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="74" Y="27"/>
+        <CursorPos X="9" Y="31"/>
         <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="8">
+    <JumpHistory HistoryIndex="11">
       <Position>
         <Filename Value="For_While_Loops.lpr"/>
         <Caret Line="11" Column="8"/>
@@ -50,6 +50,18 @@
       <Position>
         <Filename Value="For_While_Loops.lpr"/>
         <Caret Line="16"/>
+      </Position>
+      <Position>
+        <Filename Value="For_While_Loops.lpr"/>
+        <Caret Line="29" Column="42"/>
+      </Position>
+      <Position>
+        <Filename Value="For_While_Loops.lpr"/>
+        <Caret Line="20" Column="11"/>
+      </Position>
+      <Position>
+        <Filename Value="For_While_Loops.lpr"/>
+        <Caret Line="26" Column="21"/>
       </Position>
     </JumpHistory>
     <RunParams>
