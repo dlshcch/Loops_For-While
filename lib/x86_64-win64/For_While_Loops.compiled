@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1482330472"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiG:\My Drive\IT\Pascal\Loops_For and While Practise\Loops_For-While\lib\x86_64-win64&quot; &quot;-FuG:\My Drive\IT\Pascal\Loops_For and While Practise\Loops_For-While\&quot; &quot;-FUG:\My Drive\IT\Pascal\Loops_For and While Practise\Loops_For-While\lib\x86_64-win64\&quot; &quot;-FEG:\My Drive\IT\Pascal\Loops_For and While Practise\Loops_For-While\&quot; &quot;-oG:\My Drive\IT\Pascal\Loops_For and While Practise\Loops_For-While\For_While_Loops.exe&quot; For_While_Loops.lpr"/>
+</CONFIG>
